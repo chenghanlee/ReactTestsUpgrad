@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test That The Component Renders Correctly Using Snapshots 1`] = `
+<div
+  className="w-100 sans-serif"
+>
+  <section
+    className="tc pa3 pa5-ns"
+  >
+    <article
+      className="hide-child relative ba b--black-20 mw5 center"
+    >
+      <img
+        alt="Photo of the Terminator"
+        className="db"
+        src="https://i.imgur.com/VZgxXSz.jpg"
+      />
+      <div
+        className="pt2 bt b--black-20"
+      >
+        <a
+          className="f6 db link dark-blue hover-blue"
+          href="#"
+        >
+          Arnold S.
+        </a>
+        <p
+          className="f6 gray mv1 pb3"
+        >
+          1 mutual friend
+        </p>
+        <a
+          className="link tc ph3 pv2 db bg-animate bg-dark-blue white f6 b br1"
+          href="#"
+          id="js-button"
+          onClick={[Function]}
+        >
+          Add Friend
+        </a>
+      </div>
+    </article>
+  </section>
+</div>
+`;

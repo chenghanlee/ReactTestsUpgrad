@@ -1,0 +1,28 @@
+# Ignore compiled files
+dist
+coverage
+docs/assets/
+
+# Node files
+node_modules
+
+# OS/editor 
+._*
+.DS_Store
+.idea
+
+# Other various
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+
+# package-lock.json
+package-lock.json
+
+# Visual Studio Code files
+.vscode

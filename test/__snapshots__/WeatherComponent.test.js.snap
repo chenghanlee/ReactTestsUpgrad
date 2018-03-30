@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component renders correctly 1`] = `
+<article
+  className="helvetica pb5"
+>
+  <header
+    className="vh-100 bg-light-pink dt w-100"
+  >
+    <div
+      className="dtc v-mid cover ph3 ph4-m ph5-l"
+      style={
+        Object {
+          "backgroundImage": "url(http://mrmrs.github.io/photos/display.jpg) no-repeat center right background-size: cover",
+        }
+      }
+    >
+      <h1
+        className="f2 f-subheadline-l measure lh-title fw9"
+      >
+        Weather at 
+         is current 
+      </h1>
+      <h2
+        className="f6 fw6 black"
+      >
+        A simple weather component
+      </h2>
+    </div>
+  </header>
+</article>
+`;
